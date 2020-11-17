@@ -1,0 +1,4 @@
+enum ReceiptType {
+  PENDING,
+  PROCESSED
+}

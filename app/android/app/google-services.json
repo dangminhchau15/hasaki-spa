@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "574634000879",
+    "firebase_url": "https://hasakiwork.firebaseio.com",
+    "project_id": "hasakiwork",
+    "storage_bucket": "hasakiwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574634000879:android:62d0d6cb9586c29b63761a",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574634000879-lts5rojqjt3u4fcklc3oppamutrnjtnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV8hhlVF5Ewp47r0YD8PGoH-Klx6EpXGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574634000879-lts5rojqjt3u4fcklc3oppamutrnjtnd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574634000879-pg4u541e44l160q1a7fhd9or27uq6jqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hasaki.beauty.spa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574634000879:android:7758e121d6f5e7cf63761a",
+        "android_client_info": {
+          "package_name": "com.hasaki.HasakiWork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574634000879-lts5rojqjt3u4fcklc3oppamutrnjtnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV8hhlVF5Ewp47r0YD8PGoH-Klx6EpXGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574634000879-lts5rojqjt3u4fcklc3oppamutrnjtnd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574634000879-pg4u541e44l160q1a7fhd9or27uq6jqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hasaki.beauty.spa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574634000879:android:3eb2ce8edb3ac95263761a",
+        "android_client_info": {
+          "package_name": "training.hasaki.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574634000879-lts5rojqjt3u4fcklc3oppamutrnjtnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV8hhlVF5Ewp47r0YD8PGoH-Klx6EpXGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574634000879-lts5rojqjt3u4fcklc3oppamutrnjtnd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574634000879-pg4u541e44l160q1a7fhd9or27uq6jqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hasaki.beauty.spa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
